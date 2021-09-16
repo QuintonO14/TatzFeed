@@ -8,8 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "bson": "^4.5.2",
+    "isomorphic-unfetch": "^3.1.0",
+    "mongodb": "^3.6.6",
     "next": "^10.0.0",
+    "next-connect": "^0.10.1",
+    "next-s3-upload": "^0.1.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.2.0",
+    "react-share": "^4.4.0",
+    "react-tooltip": "^4.2.18",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
   }
 }
